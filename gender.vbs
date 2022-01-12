@@ -1,0 +1,1 @@
+CreateObject("SAPI.spVoice").speak"I Love You"
